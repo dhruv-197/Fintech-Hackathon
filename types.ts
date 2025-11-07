@@ -1,10 +1,10 @@
-
 export enum UserRole {
   Admin = 'Admin',
   CFO = 'CFO',
   Checker1 = 'Checker 1',
   Checker2 = 'Checker 2',
-  FinalChecker = 'Final Checker',
+  Checker3 = 'Checker 3',
+  Checker4 = 'Checker 4',
 }
 
 export enum ReviewStatus {
